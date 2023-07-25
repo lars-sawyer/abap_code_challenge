@@ -1,15 +1,4 @@
 # abap-code-challenge
-SAP Community Code Challenge 
+SAP Community Code Challenge <br>
 https://blogs.sap.com/2023/05/10/sap-developer-code-challenge-open-source-abap/
 
-
-test
-
-
-test2
-
-
-test3
-
-
-test4
